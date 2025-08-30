@@ -1,6 +1,6 @@
 💻 Sheril | Computer Science Student @ VIT-AP
 🔹 Aspiring Software Engineer | AI & ML Enthusiast
-🔹 GPA: 9.5 (Semester 1)
+🔹 GPA: 9.57 (currently)
 
 Passionate about problem-solving, software development, and artificial intelligence, I love exploring new technologies and building projects that make an impact. Currently honing my skills in Python, C/C++, Data Structures & Algorithms, and Machine Learning.
 
